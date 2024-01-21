@@ -1,7 +1,7 @@
 package software.ulpgc.imageviewer.ImageViewer;
 
 import software.ulpgc.imageviewer.model.Image;
-import software.ulpgc.imageviewer.persistance.FileImageLoader;
+import software.ulpgc.imageviewer.persistence.FileImageLoader;
 import software.ulpgc.imageviewer.presenter.ImagePresenter;
 import software.ulpgc.imageviewer.view.MainFrame;
 
